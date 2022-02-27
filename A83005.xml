@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of explanation and further enlargement of a former ordinance made by the Lords and Commons in Parliamnet, for sequestration of delinquents estates-with an oath for renouncing of popery. August 19. 1643. Ordered by the Commons in Parliament assembled, that this ordinance be forethwith printed and published. H. Elsynge Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83005</idno>
+            <idno type="STC">Wing E1794A</idno>
+            <idno type="STC">Thomason E65_25</idno>
+            <idno type="STC">ESTC R884</idno>
+            <idno type="EEBO-CITATION">99873417</idno>
+            <idno type="PROQUEST">99873417</idno>
+            <idno type="VID">125888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125888)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of explanation and further enlargement of a former ordinance made by the Lords and Commons in Parliamnet, for sequestration of delinquents estates-with an oath for renouncing of popery. August 19. 1643. Ordered by the Commons in Parliament assembled, that this ordinance be forethwith printed and published. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaikelocke, are to be sold at his Shop neer Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 21. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125888:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF EXPLANATION AND Further Enlargement of a former <hi>ORDINANCE</hi> Made by the <hi>Lords</hi> and <hi>Commons in Parliament, for Sequeſtration</hi> of Delinquents Eſtates.</p>
+            <p>With an Oath for renouncing of POPERY.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Auguſt 19. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons in Parliament aſſembled, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Laurence Blaikelocke,</hi> and are to be ſold at his Shop neer Temple-Bar. <hi>Aug.</hi> 21. 1643.</p>
+            <pb facs="tcp:125888:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:125888:2"/>
+            <head>An Ordinance of the Lords and Commons, in Parliament, for explanation of a former <hi>Ordinance for ſequeſtration of Delinquents eſtates.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Or explanation and enlargement of an Ordinance lately made by the Lords and Commons in Parliament, for Seizing and Sequeſtring the Eſtates both Reall and Perſonall of certain kindes of notorious Delinquents;</p>
+            <p>Be it now Declared and Ordained by the ſaid Lords and Commons aſſembled, That in the num<g ref="char:EOLhyphen"/>ber of ſuch Delinquents and Papiſts, who ſhall come within the compaſſe of the ſaid former Ordi<g ref="char:EOLhyphen"/>nance, and to all Intents and Purpoſes to be pro<g ref="char:EOLhyphen"/>ceeded againſt, as notorious Delinquents or Pa<g ref="char:EOLhyphen"/>piſts, expreſly deſcribed in the ſaid Ordinance, ſhall be reckoned and accounted, all ſuch as voluntarily abſenting themſelves from the uſual places of their abodes, or dwellings, Trade, Offices, or Imploy<g ref="char:EOLhyphen"/>ments, and have gone, or ſhall go to any of the Kings Armies, or other Forces raiſed without con<g ref="char:EOLhyphen"/>ſent of both Houſes of Parl. and have there conti<g ref="char:EOLhyphen"/>nued, or ſhall there continue, and ſhall not within ten days after Seizure or Sequeſtration of their ſe<g ref="char:EOLhyphen"/>verall goods or eſtates, or ſtay made of their Rents by force of the ſaid Ordinance (which ſaid Seque<g ref="char:EOLhyphen"/>ſtrators are hereby required to do) ſhew ſufficient
+<pb n="2" facs="tcp:125888:3"/>
+cauſe to be allowed by the Committee of the County, City, or Place in which the ſaid Seizure or Sequeſtration, or ſtay of Rents, is, or ſhall be made, of ſuch their abſence, going, and continuing in any of the ſaid Armies or Forces: And all ſuch as ſhall fraudulently imbezle, conceal, or convey away, all, or any part of their goods, money, or eſtate, without valuable conſideration, or not <hi>bonâ fide</hi> thereby pre<g ref="char:EOLhyphen"/>venting or avoiding the payme<g ref="char:cmbAbbrStroke">̄</g>t of any taxes or Aſ<g ref="char:EOLhyphen"/>ſeſments laid upon them by any Ordinance of both Houſes of Parl. or any diſtreſſe or ſeizure in caſe of non-payment thereof; or that after any ſuch Tax or Aſſeſſment laid on them, convey themſelves away, or refuſe to be ſpoken with, whereby any Tax or Aſſeſſment laid upon them by Ordinance of both Houſes of Parliament cannot be executed upon them or their eſtates, according to the true meaning and purport thereof: or that wittingly or willing<g ref="char:EOLhyphen"/>ly conceal or harbour any goods or perſons of De<g ref="char:EOLhyphen"/>linquents, within this or the ſaid former Ordinance, or that have had any hand in the late horrid and deſperate Conſpiracy and Treaſon of <hi>Waller, Tomp<g ref="char:EOLhyphen"/>kins, Challinor,</hi> and their Confederates, whether they be already, or hereafter ſhall be Convicted to be privie or conſenting thereunto (except ſuch as being not yet convicted ſhall diſcover and confeſſe all that they know thereof, within the time limited by both Houſes of Parliament, to ſuch perſon or perſons as are or ſhall be appointed to take ſuch diſ<g ref="char:EOLhyphen"/>cove<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and Confeſſions) or that ſhall ſue or mo<g ref="char:EOLhyphen"/>leſt any perſon or perſons who ſhall have yeelded obedience or conformitie unto the Orders, Ordi<g ref="char:EOLhyphen"/>nances,
+<pb n="3" facs="tcp:125888:3"/>
+or Commands of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, or have been, or ſhall be imployed by autho<g ref="char:EOLhyphen"/>rity of both the ſaid Houſes, for, or by reaſon of any thing done, or to be done, in execution or perfor<g ref="char:EOLhyphen"/>mance thereof, or that have willingly harboured any Popiſh Prieſts or Jeſuites in their houſes or dwellings ſince the 29 of November 1642. or that ſhall hereafter ſo harbour any: And all and every perſon or perſons which at any time hereto<g ref="char:EOLhyphen"/>fore have been convicted of Popiſh Recuſancy, and ſo continue, or that have been or ſhall be thereof Indicted, and ſuch their Indictwents removed by <hi>Certiorary,</hi> or being not removed ſhall not by ap<g ref="char:EOLhyphen"/>pearance and Traverſe be legally diſcharged, be<g ref="char:EOLhyphen"/>fore Seizure or Sequeſtration made of their goods or eſtates, or ſtay of their Rents, by force of this, or the ſaid former Ordinance, or that have been at Maſſe, at any time within one whole yeer before the 26 day of March 1643. or ſhall hereaf<g ref="char:EOLhyphen"/>ter be at Maſſe; or whoſe Children or Grand-chil<g ref="char:EOLhyphen"/>dren, or any of them living in houſe with them, or under their, or any of their Tuition and Govern<g ref="char:EOLhyphen"/>ment, ſhall be brought up in the Popiſh Religion: and all ſuch perſons as being of the age of 21 yeers, or above, ſhall refuſe to take the Oath hereafter ex<g ref="char:EOLhyphen"/>preſſed; which Oath any two or more of the ſaid Committees for Sequeſtration, in every Countie, City, or place reſpectively, or any 2 Juſtices of the Peace, or the Major, Bailiffs or other head-Officer of any City or Town Corporate, ſhall have <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wer to adminiſter to any ſuch perſon or perſons; The Tenor of which Oath followeth, <hi>in hac verba,</hi> viz.</p>
+            <q>
+               <pb n="4" facs="tcp:125888:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath.</head>
+                        <p>I <hi>A. B. Do abjure and renounce the Popes Su<g ref="char:EOLhyphen"/>premacie and Authority over the Catholike Church in Generall, and over my Selfe in Parti<g ref="char:EOLhyphen"/>cular; And I do beleeve that there is not any Tran<g ref="char:EOLhyphen"/>ſubſtantiation in the Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per, or in the Elements of Bread &amp; Wine after Con<g ref="char:EOLhyphen"/>ſecration thereof, by any perſon whatſoever; And I do alſo beleeve, that there is not any Purgatory; Or that the Conſecrated Hoaſt, Crucifixes, or Ima<g ref="char:EOLhyphen"/>ges, ought to be worſhipped, or that any worſhip is due unto any of them; And I alſo beleeve that Salvation cannot be Merited by Works, and all Doctrines in affirmation of the ſaid Points; I do abjure and renounce, without any Equivocation, Mentall-Reſervation, or ſecret Evaſion whatſo<g ref="char:EOLhyphen"/>ever, taking the words by me ſpoken, according to the common and uſuall meaning of them.</hi>
+                        </p>
+                        <p>
+                           <hi>So help me God.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="5" facs="tcp:125888:4"/>
+Shall forfeit as Papiſts within this and the ſaid for<g ref="char:EOLhyphen"/>mer Ordinances, and Seizure and Sequeſtration of two third parts of all their goods and eſtates Re<g ref="char:EOLhyphen"/>all and perſonall, and ſale of ſuch proportion of their goods ſo Seized and Sequeſtred, ſhal be made, and their Rents and eſtates diſpoſed of, in ſuch man<g ref="char:EOLhyphen"/>ner and proportion, and by ſuch perſons as by the ſaid Ordinance of Sequeſtrations is appointed for Papiſts.</p>
+            <p>And for the better diſcovery of ſuch Delin<g ref="char:EOLhyphen"/>quents and Papiſts, in this, and the ſaid former Or<g ref="char:EOLhyphen"/>dinance deſcribed, and of their eſtates; Be it fur<g ref="char:EOLhyphen"/>ther Ordained, by the ſaid Lords and Commons, That over and beſides the former power given by the ſaid Ordinance of Sequeſtration to the perſons truſted and imployed in the ſaid Service, the ſaid Committees for Sequeſtrations, or any two or more of them reſpectively, ſhall have power further hereby, to examine by Oath or otherwiſe, all and every perſon or perſons (other then the parties themſelves ſo declared to be Delinquents) that probably may be able to diſcover ſuch Delin<g ref="char:EOLhyphen"/>quents and Papiſts, or that may be truſted with, or privy to the keeping or concealing of the goods or eſtates of any ſuch delinquent or Papiſt, or that ſhall owe any thing to any ſuch delinquent or Papiſt, and ſuch as ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll refuſe ſo to be examined, or to declare the whole trueth therein, ſo farre as he ſhall be ſo required, ſhall be committed to ſafe Cuſtodie by the ſaid Committee, or any two or more of them, imployed for their ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minations, till he or they ſhall conform him, her, or themſelves.</p>
+            <p>
+               <pb n="6" facs="tcp:125888:5"/>
+And that ſuch perſon or perſons as ſhall firſt finde out and diſcover to one or both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, or to any Committee authorized for this Ser<g ref="char:EOLhyphen"/>vice, or to any of their Agents or Officers, any ſuch moneys, goods, debts, or eſtates (if the ſame be im<g ref="char:EOLhyphen"/>bezelled, eloyned, concealed, or conveyed away, as aforeſaid) ſhall do therein an acceptable ſervice to the Common-wealth, and ſhall have and re<g ref="char:EOLhyphen"/>ceive for his p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins therein 12. d. in every twenty ſhillings, ſo diſcovered after Seizure or ſale there<g ref="char:EOLhyphen"/>of made, and receipt of the money ariſing thereupon, or out of the Rents or eſtate ſo diſco<g ref="char:EOLhyphen"/>vered, the ſame to be paid unto him by the re<g ref="char:EOLhyphen"/>ſpective Committees, or Treaſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers truſted with the moneys that ſhall be received upon the Sale, or Proceed thereof, without any further or o<g ref="char:EOLhyphen"/>ther Warrant, and ſhall further receive ſuch other reward for his extraordinary ſervice therein, as by the ſaid LORDS and COMMONS ſhall be further appointed and Ordered: And for the more ſpeedie and effectuall Seizure, and obtaining poſſeſſion of all ſuch Debts, Goods, and eſtates, as aforeſaid, diſcovered, or to be diſco<g ref="char:EOLhyphen"/>vered.</p>
+            <p>It is further Ordained, That over and be<g ref="char:EOLhyphen"/>ſides the Power given by the ſaid former Or<g ref="char:EOLhyphen"/>dinance for Sequeſtration, the ſeverall and re<g ref="char:EOLhyphen"/>ſpective COMMITTEES, appointed for this Service, or any two, or more of them, ſhall hereby have Power to authorize their ſe<g ref="char:EOLhyphen"/>verall Collectours, and Agents, imployed here<g ref="char:EOLhyphen"/>in, to breake open all Locks, Bolts, Barres,
+<pb n="7" facs="tcp:125888:5"/>
+dores, or other ſtrength whatſoever, where any ſuch eſtates, moneys, or goods, are or ſhall be, upon probable grounds made appeare to the ſaid Committees or any two of them, and by them allowed in writing under their hands, to be provided that ſome or one of the ſaid Committee, or the Sollicitor, or Conſtable, or ſome other known Officer of that County or Place; and one other perſon or perſons of credit and truſt be preſent at the doing thereof; and it is further ordained, that an exact Inventory, ſubſcribed by all their hands, be taken of all particulars whatſoever, which ſhall be ſeized by vertue of theſe Ordinances: and one part of the ſaid Inventory in writing ſo ſubſcribed, delivered to the owner or owners of the ſaid money, goods, or eſtates, or other things ſo Inventoried, or to ſome perſon truſted with the keeping thereof. And that where any Rents, Debts, or Eſtate pertaining to any Delin<g ref="char:EOLhyphen"/>quent or Papiſt within this or the ſaid former Ordi<g ref="char:EOLhyphen"/>nance for ſequeſtration ſhall be found due, and the Debtor refuſeth or neglecteth to pay the ſame, upon any pretence whatſoever, reaſonable time being given to provide it, after it be come payable, and demand thereof made, the ſaid Committees, their Collectors or other Agents whom they ſhall authorize thereunto under their hands in writing, ſhall hereby have power to diſtraine, ſeize, carry away, and ſell ſo much of the goods and eſtate of every ſuch perſon ſo refuſing or neglecting as aforeſaid, as may fully ſatisfie the ſaid Rents or other Debts, together with all charges of ſeiſure, removall, and ſale of goods for ſatisfaction of the ſaid Rents, or Debts: And if any perſon or per<g ref="char:EOLhyphen"/>ſons
+<pb n="8" facs="tcp:125888:6"/>
+ſhall ſtand out or forbeare to make payment of any ſumme or ſummes of money which he or they ought to pay by vertue of this or any other Ordinance of both Houſes of Parliament whatſoever, made for the raiſing of moneys, untill a diſtreſſe bee taken for the ſame; that then he or they ſo ſtanding out or for<g ref="char:EOLhyphen"/>bearing, ſhall pay ſuch double charges for all ſuch ſei<g ref="char:EOLhyphen"/>zures, removeall, and ſale of their goods, as the Com<g ref="char:EOLhyphen"/>mittee or any two or more of them reſpectively ſhall allow or appoint; the ſame to bee levied and taken out of the goods and eſtates of ſuch perſons ſo ſtan<g ref="char:EOLhyphen"/>ding out or forbearing, by ſuch as ſhall be employed to diſtraine for, and ſeize the principall ſumme. And if any perſon or perſons ſhall undertake for the forth comming of any goods or eſtate at any time ſeized, by force of this or the ſaid former Ordinance, all and every the ſaid goods or eſtate ſhall be particular<g ref="char:EOLhyphen"/>ly Inventoried, and the Inventory thereof ſigned and ſubſcribed by three or more perſons of credit, and after given in to the Committee, under whom the perſons making the ſeizure ſhall bee employed; and if it ſhall after happen, that any of the ſaid goods or eſtate bee imbezilled or wanting, or be denied or refuſed, or not delivered to the ſaid reſpective Committee, or to their Collectors, requiring the ſame by order of the ſaid Committee, or any two or more of them reſpectively, that then the ſaid Committee, or ſuch as they ſhall au<g ref="char:EOLhyphen"/>thorize thereunto, ſhall have power to ſeize, carry away, and ſell ſo much of ſuch undertakers goods or perſo<g ref="char:EOLhyphen"/>nall eſtate, and profits of his Lands and Tenements, as may fully ſatisfie for the goods or eſtate ſo wanting,
+<pb n="9" facs="tcp:125888:6"/>
+imbezilled, or not delivered; and alſo ſo much double charges for the ſeizure, carriage, and ſale of the ſaid un<g ref="char:EOLhyphen"/>dertakers goods or eſtate ſo to be ſeized and ſold, as the ſaid Committees, or any two or more of them, ſhall allow.</p>
+            <p>And for the better enabling of the ſaid ſeverall Com<g ref="char:EOLhyphen"/>mittees, and their Agents, to make ſale of all ſuch goods and eſtates as are and ſhall be by them ſeized, and are ap<g ref="char:EOLhyphen"/>pointed to be ſold by this or the ſaid former Ordinance.</p>
+            <p>It is further declared and ordained, that after the ap<g ref="char:EOLhyphen"/>portioning and ſetting out of ſome neceſſary mainte<g ref="char:EOLhyphen"/>nance (if it be deſired) for the wives and children of ſuch Delinquents whoſe goods and eſtates are and ſhall be ſeized (which allowance or maintenrnce the ſaid ſe<g ref="char:EOLhyphen"/>verall and reſpective Committees, or any two or more of them reſpectively, ſhall hereby have power to make, ſo, as they allow not the wife and children of one De<g ref="char:EOLhyphen"/>linquent above one fifth part of his goods and eſtate ſo ſeized) they ſhall authorize and require their Collectors and Agents to make ſale of the reſidue or remainder of the ſaid goods by the Candle for ready moneys to bee paid at the delivery of the goods ſo ſold, within ten dayes after the ſeizure thereof, giving notice of the ſaid ſale in writing upon ſome poſts or walles in the moſt open and eminent places neare the place of ſale two dayes before the ſaid ſale, due appraiſment being firſt made thereof by two skilfull appraiſors, being men of ſome quality, and known integrity, from time to time to be choſen with the advice of the Solli<g ref="char:EOLhyphen"/>citor for ſequeſtrations, by the Committee truſted with
+<pb n="10" facs="tcp:125888:7"/>
+the ſeizure and ſale of the ſaid goods<hi>:</hi> which appraiſ<g ref="char:EOLhyphen"/>ment ſhall be made in the preſence of ſome of the ſaid Committees, Sollicitor, or Treaſurer of the ſame County, City, or place reſpectively, and not otherwiſe. And for the more ſpeedy diſpatch hereof, it is further ordained, that the Committee of Lords and Commons for ſequeſtrations ſhall receive no information againſt the particular C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmittee of any County, City, or place for ſequeſtrations in any cauſe of this kinde, till the matter hath firſt beene certified under the hands of two or more of the ſaid reſpective Committees by whoſe Agents and Miniſters the goods or eſtate of the Delinquent were ſeized: Or in caſe the ſaid Committees refuſe to certifie the ſpeciall matter, or that otherwiſe Certificate cannot bee had. And bee it ordained, that honeſt, able, and ſufficient Collectors bee appointed in every County, City, and place for this ſervice, and their neglects or de<g ref="char:EOLhyphen"/>faults be certified to the Houſes, or to the Committee of Lords and Commons for Sequeſtrations.</p>
+            <p>And that all and every perſon and perſons, who ſhall be employed in this ſervice, or ſhall doe any thing in purſuance of this or the ſaid former Ordinance for Sequeſtrations, ſhall therein have the protection of both Houſes of Parliament for their Imdempni<g ref="char:EOLhyphen"/>ty, and bee held and eſte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med as perſons doing an acceptable ſervice to the Common-wealth.</p>
+            <p>And it is further ordained, that every Collector within every County City and place reſpectively, who ſhall receive any moneys in kinde, or make ſale of any goods, ſhall deliver the moneys ſo received or rai<g ref="char:EOLhyphen"/>ſed
+<pb n="11" facs="tcp:125888:7"/>
+by ſales, to the Committee for ſequeſtrations with<g ref="char:EOLhyphen"/>in the ſaid County City, or place, where ſuch moneys ſhall be received, or to ſuch Treaſurer as they ſhall ap<g ref="char:EOLhyphen"/>point, or other perſon authorized to receive the ſame within ſeven dayes next after the ſaid Collectors re<g ref="char:EOLhyphen"/>ceit thereof, upon paine of forfiture of twelfe pence for every twenty ſhillings, received or levied by ſale as aforeſaid, and remaining in his or their hands, which Committee or Treaſurer, ſhall take order for the ſafe ſending of all, and every ſumme ſo received to the Treaſurer at Guild-Hall in <hi>London</hi> appointed for this purpoſe, Monthly, or more often, as they ſhall bee thereunto required by the ſaid Treaſurors at Guild-Hall, or by the ſaid Committee of Lords and Commons for Sequeſtrations, or by the Committee of Lords and Commons for advance of moneys; and that the ſeve<g ref="char:EOLhyphen"/>rall Committees, Collectors, and Treaſurers reſpective<g ref="char:EOLhyphen"/>ly, ſhall have power to give acquittances and diſ<g ref="char:EOLhyphen"/>charges for the ſeverall ſums by them received, which ſhall bee ſufficient diſcharges to the parties concerned in that behalfe.</p>
+            <p>And it is further ordained and declared, That Maſter <hi>Hobſon,</hi> Maſter <hi>Bernardiſton,</hi> Maſter <hi>Hill,</hi> and Maſter <hi>Samuel Avery,</hi> Citizens of London, ſhall bee and are hereby appointed, and authorized to be Treaſurers at Guild-Hall London, to receive all moneys raiſed and to be raiſed upon, or by vertue of this, or the ſaid former Ordinance for Sequeſtrations, and ſhall make entries thereof in faire books <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be provided for that purpoſe, as alſo of the names of the perſons, from whom,
+<pb n="12" facs="tcp:125888:8"/>
+and the time when they receive the ſame, and of their disburſements and payments out; for which their paines and ſervice, they ſhall have three pence in every pound, which they ſhall ſo receive to be debated out of the ſaid ſummes received.</p>
+            <p>And it is further ordained that no Treaſurers tru<g ref="char:EOLhyphen"/>ſted with any part of the ſaid moneys, ſhall iſſue out any of the ſaid moneys by way of payment, loane, or otherwiſe, (except as in this Ordinance is appointed) otherwiſe then and in ſuch manner as is directed by former Ordinance for iſſuing out of moneys; and for the more exact and perfect keeping of all accompts touching the premiſſes; it is yet further ordained, that every Collector ſhall from time to time, make and keep a ſure and perfect Inventary of all and every the moneys, goods, and eſtates by him ſeized, another of the ſale or other diſpoſall thereof; both of which ſhall be ſubſcribed under the hands of two or more perſons of credit that were preſent at the ſaid ſeizures or ſales, beſides his own, and that he make and ingroſſe a dupli<g ref="char:EOLhyphen"/>cate thereof in parchment, fairly written, one part wher<g ref="char:EOLhyphen"/>of he ſhall leave with the particular Committee, under which he is employed; and the other part after exami<g ref="char:EOLhyphen"/>nation thereof, he ſhall deliver to the Sollicitor for that place, who ſhall tranſmit the ſame to the Committee of Lords and Commons for advance of money ſubſcri<g ref="char:EOLhyphen"/>bed by the ſaid Sollicitor, and Collector, and two of the ſaid particular Committee of the place from whence it is tranſmitted, all which accounts and duplicats ſhall be made and ſent up to <hi>London</hi> in ſuch manner and ſo
+<pb n="13" facs="tcp:125888:8"/>
+often as the ſaid Committee of Lords and Commons for advance of money, ſhall from time to time order and appoint: Provided always, and be it ordained, that it ſhall be lawfull for the reſpective Committes for ſe<g ref="char:EOLhyphen"/>queſtrations, or any two or more of them to accept of ready mony for the goods of the ſaid Delinquents or Papiſts, or any of them which ſhall or are to be ſeized according to the value thereof, in leiw and ſatis<g ref="char:EOLhyphen"/>faction of the ſaid goods, and thereupon the ſeizure and ſequeſtration, as to the ſame, to be diſcharged.</p>
+            <p>And bee it ordained that if any perſon ſhall wit<g ref="char:EOLhyphen"/>tingly or willingly conceale and harbour any of the goods of any Delinquents within this or the ſaid former Ordinance (he knowing ſuch perſon to be a De<g ref="char:EOLhyphen"/>linquent) that then ſuch perſons ſhall forfeit treble the value thereof, to be levied upon his or their goods and eſtates, by the ſaid reſpective Committee or Seque<g ref="char:EOLhyphen"/>ſtrators, or any two or more of them, or their agents, to the uſes appointed by the ſaid Ordinances for De<g ref="char:EOLhyphen"/>linquents Eſtates.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
